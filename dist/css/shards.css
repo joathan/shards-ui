@@ -444,10 +444,6 @@ pre {
   color: #868e96;
 }
 
-.form-control:-ms-input-placeholder {
-  color: #868e96;
-}
-
 .form-control::-ms-input-placeholder {
   color: #868e96;
 }
